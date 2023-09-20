@@ -1,5 +1,7 @@
 ## **Unlocking Insights with NYC Yellow Taxi Data using Big Data Technologies** 🚖
 
+<img src="https://github.com/EddieAmaitum/NYC-Yellow-Taxi-DataOps-with-AWS-Analyzing-TLC-Datasets/blob/main/NYC%20Yellow%20Taxi%20photo.png" alt="NYC Yellow Taxi photo" width="100%">
+
 In this repository, we leverage the power of Big Data technologies to perform data-driven business operations on the NYC Yellow Taxi dataset. Our toolkit includes industry-standard tools and services such as:
 
 __AWS EMR:__ Harness the scalability of Amazon Elastic MapReduce for efficient data processing and analysis.
